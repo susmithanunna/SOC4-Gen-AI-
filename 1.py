@@ -1,6 +1,6 @@
 import streamlit as st #streamlit is package in python used to create  UI
 st.set_page_config(page_title='Foodie')
-st.header("Tyoes of Foodies")
+st.header("Types of Foodies")
 col1,col2=st.columns(2)
 with col1:
   st.subheader("Shinchan ")
@@ -10,4 +10,4 @@ with col2:
     st.subheader("Himawari ")
     st.image("https://gifdb.com/images/high/crayon-shin-chan-baby-himawari-nohara-8fj7zftf0968p85d.gif",caption="", width=3000,use_column_width=True)
     st.write("Milk Drinker Himawari")
-    
+st.video("https://youtu.be/g3LyuNbxkoQ", format="video/mp4", start_time=0)
