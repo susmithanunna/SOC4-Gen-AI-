@@ -8,6 +8,6 @@ with col1:
   st.write("Cute Eater Shinchana")
 with col2:
     st.subheader("Duck")
-    st.image("https://media.tenor.com/AFagQ7fK8JUAAAAj/food-yummy.gif",caption="Fast Eater", width=300,use_column_width=True)
+    st.image("https://media.tenor.com/AFagQ7fK8JUAAAAj/food-yummy.gif",caption="Fast Eater", width=250,use_column_width=True)
     st.write("Fast eater Duck")
     
