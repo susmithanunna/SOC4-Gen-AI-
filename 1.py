@@ -7,7 +7,7 @@ with col1:
   st.image("https://media4.giphy.com/media/12Yug01me26oH6/giphy.gif",caption="Cute Eater",width=300,use_column_width=True)
   st.write("Cute Eater Shinchana")
 with col2:
-    st.subheader("Duck")
-    st.image("https://media.tenor.com/AFagQ7fK8JUAAAAj/food-yummy.gif",caption="Fast Eater", width=250,use_column_width=True)
-    st.write("Fast eater Duck")
+    st.subheader("Himawari ")
+    st.image("https://gifdb.com/images/high/crayon-shin-chan-baby-himawari-nohara-8fj7zftf0968p85d.gif",caption="", width=3000,use_column_width=True)
+    st.write("Milk Drinker Himawari")
     
